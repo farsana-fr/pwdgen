@@ -1,0 +1,25 @@
+.left
+{
+    position: relative;
+}
+.left .right
+{
+   position: absolute;
+   right:1%;
+   top:20%;
+}
+.clipboard:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.form
+{
+    background-color: rgb(91, 83, 83);
+    color: white;  
+    min-height: 100vh;
+}
+.main
+{
+    background-color: rgba(21, 21, 21, 0.245);
+}
