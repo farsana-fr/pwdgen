@@ -15,11 +15,12 @@
 
 .form
 {
-    background-color: rgb(91, 83, 83);
+    /* background-color: rgb(91, 83, 83); */
     color: white;  
-    min-height: 100vh;
+    /* min-height: 100vh; */
 }
 .main
 {
-    background-color: rgba(21, 21, 21, 0.245);
+    background-color: rgba(21, 21, 21, 0.563);
+
 }
